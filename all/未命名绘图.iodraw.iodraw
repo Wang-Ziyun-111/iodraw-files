@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="130" width="320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-6" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Task 1：&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Player Performance Quantification Model&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="140" width="140" height="60" as="geometry" />
+          <mxGeometry x="50" y="140" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
