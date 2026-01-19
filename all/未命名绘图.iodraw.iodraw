@@ -25,7 +25,7 @@
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-15" value="Linear Computation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qCwK7hmFxbNFbBE_2iT9-16" value="Performance Score" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qCwK7hmFxbNFbBE_2iT9-16" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Performance Score&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
