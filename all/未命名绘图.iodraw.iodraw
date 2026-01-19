@@ -44,7 +44,7 @@
           <mxGeometry x="370" y="280" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-29" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Existence of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Momentum&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="110" height="60" as="geometry" />
+          <mxGeometry x="390" y="160" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
