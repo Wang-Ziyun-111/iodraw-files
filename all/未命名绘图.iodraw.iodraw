@@ -22,7 +22,7 @@
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-13" value="0.3 * The serving PC&#39;s variance explained" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qCwK7hmFxbNFbBE_2iT9-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qCwK7hmFxbNFbBE_2iT9-15" value="Linear Computation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
