@@ -4,13 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qCwK7hmFxbNFbBE_2iT9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qCwK7hmFxbNFbBE_2iT9-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-weight: bold;&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Momentum in Tennis&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="150" width="170" height="30" as="geometry" />
+          <mxGeometry x="40" y="30" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
