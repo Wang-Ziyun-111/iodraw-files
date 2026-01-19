@@ -46,7 +46,7 @@
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-29" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Existence of&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;Momentum&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="180" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qCwK7hmFxbNFbBE_2iT9-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qCwK7hmFxbNFbBE_2iT9-30" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;The coach’s view is wrong&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
