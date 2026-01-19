@@ -70,7 +70,7 @@
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-41" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Prediction of Match Flow Transition Points&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="124.99000000000001" y="710" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qCwK7hmFxbNFbBE_2iT9-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qCwK7hmFxbNFbBE_2iT9-42" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Random Forest Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
