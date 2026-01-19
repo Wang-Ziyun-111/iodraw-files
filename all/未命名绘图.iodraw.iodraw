@@ -16,7 +16,7 @@
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-7" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Data Precessing&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="145" y="210" width="105" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qCwK7hmFxbNFbBE_2iT9-12" value="&lt;div&gt;PCA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qCwK7hmFxbNFbBE_2iT9-12" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;PCA&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-13" value="0.3 * The serving PC&#39;s variance explained" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
