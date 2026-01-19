@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-111" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="650" y="145" width="240" height="725" as="geometry" />
+          <mxGeometry x="640" y="142.5" width="240" height="725" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-109" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="687" y="230" width="163" height="420" as="geometry" />
+          <mxGeometry x="677" y="227.5" width="163" height="420" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-99" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="560" height="810" as="geometry" />
@@ -124,31 +124,28 @@
           <mxGeometry x="250" y="790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-88" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Task 4:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Testing Model Generalizability&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="660" y="150" width="220" height="60" as="geometry" />
+          <mxGeometry x="650" y="147.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-89" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Other Matches within the Datasets&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="247.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-90" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Women&#39;s Matches&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="370" width="140" height="50" as="geometry" />
+          <mxGeometry x="690" y="367.5" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-91" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Other Tournaments&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="460" width="120" height="70" as="geometry" />
+          <mxGeometry x="700" y="457.5" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-92" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;Different Court Types&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="562.5" width="120" height="65" as="geometry" />
+          <mxGeometry x="700" y="560" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-93" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: initial;&quot;&gt;Robust Generalizability&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qCwK7hmFxbNFbBE_2iT9-96" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" vertex="1" parent="1">
-          <mxGeometry x="600" y="420" width="50" height="40" as="geometry" />
+          <mxGeometry x="700" y="777.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-13" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Times New Roman&quot;&gt;0.3 * The serving PC&#39;s variance explained&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="71.88" y="242" width="226.24" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qCwK7hmFxbNFbBE_2iT9-110" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="748.5" y="680" width="40" height="80" as="geometry" />
+          <mxGeometry x="738.5" y="677.5" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
